@@ -1,6 +1,6 @@
 ## 申請 Google Sheets 憑證紀錄
 
-### 1. [申請憑證](https://console.developers.google.com/flows/enableapi?apiid=sheets.googleapis.com) ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.18.28.png)
+### 1. [申請憑證](https://console.developers.google.com/flows/enableapi?apiid=sheets.googleapis.com) ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.18.28.png?raw=true)
 
 ### 2. 前往憑證 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.23.09.png)
 
