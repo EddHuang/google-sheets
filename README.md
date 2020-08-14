@@ -2,21 +2,21 @@
 
 ### 1. [申請憑證](https://console.developers.google.com/flows/enableapi?apiid=sheets.googleapis.com) ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.18.28.png?raw=true)
 
-### 2. 前往憑證 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.23.09.png)
+### 2. 前往憑證 ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.23.09.png?raw=true)
 
-### 3. 按下取消 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.25.32.png)
+### 3. 按下取消 ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.25.32.png?raw=true)
 
-### 4. 進入OAuth同意畫面 點選外部 建立 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.28.21.png)
+### 4. 進入OAuth同意畫面 點選外部 建立 ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.28.21.png?raw=true)
 
-### 5. 輸入email和應用程式名稱 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.30.53.png)
+### 5. 輸入email和應用程式名稱 ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.30.53.png?raw=true)
 
-### 6. 建立憑證 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.35.11.png)
+### 6. 建立憑證 ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.35.11.png?raw=true)
 
-### 7. 選擇電腦版應用程式 輸入名稱 建立 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.37.13.png)
+### 7. 選擇電腦版應用程式 輸入名稱 建立 ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.37.13.png?raw=true)
 
-### 8. 下載憑證之後檔名對應到程式裡的CREDENTIALS_FILE_PATH![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.39.20.png)
+### 8. 下載憑證之後檔名對應到程式裡的CREDENTIALS_FILE_PATH![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.39.20.png?raw=true)
 
-### 9. 放到resources資料夾裡面 ![](/Users/eddie/Documents/Note/Google Sheets/images/截圖 2020-08-14 下午3.44.53.png)
+### 9. 放到resources資料夾裡面 ![](https://github.com/EddieHuang0410/google-sheets/blob/master/%E6%88%AA%E5%9C%96%202020-08-14%20%E4%B8%8B%E5%8D%883.44.53.png?raw=true)
 
 ### 10. 到google新增試算表
 
